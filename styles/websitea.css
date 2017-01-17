@@ -1,0 +1,15 @@
+html {
+  font-size: 10px;
+  font-family: 'Open Sans', sans-serif;
+  background-color: tan;
+}
+h1 {
+  padding: 4px 10px 5px;
+  margin: 5px 5px 5px 5px;
+  font-size: 30px;
+  color: red;
+  border: medium groove blue;
+  background: yellow;
+  text-decoration: none;
+  box-shadow: 10px 10px 10px rgba(0,0,0,0.7);
+}
